@@ -1,6 +1,6 @@
 # PLC Ladder Logic for Single-Cycle Conveyor System – Haiwell AT12M0R
 
-![IMG_20250428_121153-50](https://github.com/user-attachments/assets/2e24c7c9-58a6-4a28-b53a-6629e12fe8a2)
+![IMG_20250428_121153-50](https://github.com/user-attachments/assets/8821e049-ec14-4a2b-b8c6-8ad01f5ed49e)
 
 This project implements a **ladder logic program** for a single-cycle conveyor system using the **Haiwell AT12M0R PLC**, expanded with **2x A16XDR I/O extension modules**. Designed as an academic project within a Modular Production System (MPS) environment, it automates material handling using sensors, pneumatic cylinders, twinrod actuators, a suction cup, and indicator lights.
 
