@@ -6,6 +6,12 @@ This project implements a **ladder logic program** for a single-cycle conveyor s
 
 ## 🎯 **Project Description**
 
+**Modular Production System (MPS) Conveyor** is one of the essential modules in a modular production system designed to simulate material handling processes in production lines. This module focuses on the movement, detection, and sorting of items using conveyor systems, providing practical experience in designing and controlling industrial automation systems.
+
+This module includes key components such as a **conveyor belt system** for material transport, **sensors** for item detection (e.g., proximity or optical sensors), and **pneumatic actuators** for pick-and-place mechanisms. Additionally, the module is controlled by **Programmable Logic Controllers (PLC)** to implement control logic, and it is equipped with **safety interlocks** to ensure safe operations.
+
+Users of this module can learn various aspects, ranging from programming conveyor logic (such as start/stop, speed control, and item handling), integrating sensors and actuators for automation tasks, to troubleshooting common issues in conveyor systems. This module is also designed to train skills in optimizing material flow to increase production efficiency.
+
 The system controls a conveyor belt that detects and counts incoming items using sensors. Once 3 items are detected, the conveyor stops automatically, and a pneumatic pick-and-place sequence is triggered using a twinrod actuator and suction cup. The system operates in **single-cycle mode**, requiring a manual restart for each new cycle.
 
 The logic includes:
@@ -19,6 +25,8 @@ The logic includes:
 ---
 
 ## 📝 **Input / Output Table**
+
+> File Download: [Code Input & Output.pdf](https://github.com/Customize5773/MPS-Machine/blob/main/Code%20Input%20%26%20Output.pdf)
 
 ### INPUT
 | Name                  | Address | Description                               |
