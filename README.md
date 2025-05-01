@@ -28,7 +28,7 @@ The logic includes:
 
 ## 📝 **Input / Output Table**
 
-> File Download: [Code Input & Output.pdf]([https://github.com/Customize5773/MPS-Machine/blob/main/Code%20Input%20%26%20Output.pdf](https://github.com/Customize5773/MPS-Conveyor/blob/0799f5a12e53bcad05f74813132585c8ba16a0f7/docs/Code%20Input%20%26%20Output.pdf))
+> File Download: [Code Input & Output.pdf](https://github.com/Customize5773/MPS-Conveyor/blob/0799f5a12e53bcad05f74813132585c8ba16a0f7/docs/Code%20Input%20%26%20Output.pdf)
 
 ### INPUT
 | Name                  | Address | Description                               |
