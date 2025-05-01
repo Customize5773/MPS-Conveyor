@@ -113,7 +113,7 @@ The system uses:
 
 ## 🖼️ **Ladder Logic Diagram**
 
-A complete ladder logic diagram is provided in [LadderLogic_MPS_Haiwell]() in this repository.
+A complete ladder logic diagram is provided in [LadderLogic_MPS_Haiwell](https://github.com/Customize5773/MPS-Conveyor/blob/fb20947a3d5d9922143b40772cc2d211c2b0303e/Haiwell%20Program/Ladder-Logic.md) in this repository.
 
 ---
 
