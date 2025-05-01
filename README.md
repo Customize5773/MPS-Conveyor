@@ -1,5 +1,9 @@
 # PLC Ladder Logic for Single-Cycle Conveyor System – Haiwell AT12M0R
 
+![IMG_20130218_110831](https://github.com/user-attachments/assets/715f644a-7fcf-4b31-aa40-7e597c70a3d5)
+
+> Source Image: [modular-production-system-festo-trainer](https://elektronika-industri-cevest.blogspot.com/2013/02/modular-production-system-festo-trainer.html)
+
 This project implements a **ladder logic program** for a single-cycle conveyor system using the **Haiwell AT12M0R PLC**, expanded with **2x A16XDR I/O extension modules**. Designed as an academic project within a Modular Production System (MPS) environment, it automates material handling using sensors, pneumatic cylinders, twinrod actuators, a suction cup, and indicator lights.
 
 ## 🎯 **Project Description**
