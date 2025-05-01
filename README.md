@@ -4,6 +4,8 @@
 
 This project implements a **ladder logic program** for a single-cycle conveyor system using the **Haiwell AT12M0R PLC**, expanded with **2x A16XDR I/O extension modules**. Designed as an academic project within a Modular Production System (MPS) environment, it automates material handling using sensors, pneumatic cylinders, twinrod actuators, a suction cup, and indicator lights.
 
+> Backstory : This project was created to deepen my personal understanding of the Modular Production System (MPS) Conveyor after attending a school training program on PLC-Conveyor organized by PT. Datek Inovasi Nusantara at SMKN 1 Udanawu, Indonesia.
+
 ## 🎯 **Project Description**
 
 **Modular Production System (MPS) Conveyor** is one of the essential modules in a modular production system designed to simulate material handling processes in production lines. This module focuses on the movement, detection, and sorting of items using conveyor systems, providing practical experience in designing and controlling industrial automation systems.
